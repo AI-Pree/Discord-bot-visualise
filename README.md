@@ -1,2 +1,2 @@
-# Discord-bot-visualise
-Mobile app for data visualization of discord bot activites
+# Trading stock visualise
+Mobile app for data visualization of trade stock activites
